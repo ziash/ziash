@@ -1,4 +1,4 @@
-# 👋 Salam, I'm Ziauddin Zeeshan
+# 👋 Salam, I'm Zia Zeeshan
 
 **Network Planning Engineer | Full-Stack Developer | AI Enthusiast**
 
