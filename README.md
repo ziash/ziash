@@ -6,14 +6,14 @@ I specialize in bridging the gap between robust telecommunications infrastructur
 
 ---
 
-### 🚀 Professional Glimpse
-* **📡 Telecom Expertise:** Specialized in Packet Core Planning (2G/3G/4G/5G), Huawei Core & Cloud solutions, and network performance optimization.
-* **💻 Software Development:** Architecting decoupled full-stack applications using **FastAPI** and **React (Next.js/Vite)**.
-* **🤖 AI Integration:** Implementing LLMs (Claude, Gemini) to create interactive learning experiences and automated grading engines.
+### Professional Glimpse
+* ** Telecom Expertise:** Specialized in Packet Core Planning (2G/3G/4G/5G), Huawei Core & Cloud solutions, and network performance optimization.
+* ** Software Development:** Architecting decoupled full-stack applications using **FastAPI** and **React (Next.js/Vite)**.
+* ** AI Integration:** Implementing LLMs (Claude, Gemini) to create interactive learning experiences and automated grading engines.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 * **Languages:** Python (FastAPI, Pydantic), TypeScript (React, Next.js), Bash Scripting.
 * **Infrastructure:** Huawei EulerOS, Ubuntu, Docker, Packet Core Network Design.
 * **Tools & Databases:** Git, JSON-based persistent storage, Tailwind CSS, Framer Motion.
@@ -21,7 +21,7 @@ I specialize in bridging the gap between robust telecommunications infrastructur
 
 ---
 
-### 📂 Featured Project: [Nur Academy](https://github.com/ziash/igcse-islamiyat)
+###  Featured Project: [Nur Academy](https://github.com/ziash/igcse-islamiyat)
 An AI-powered study companion for IGCSE Islamiyat.
 * **Frontend:** Mobile-first design using React 19 & Tailwind.
 * **Backend:** High-performance FastAPI engine for real-time AI grading.
@@ -35,7 +35,7 @@ An AI-powered study companion for IGCSE Islamiyat.
 
 ---
 
-### 🤝 Let's Connect!
+###  Let's Connect!
 * **LinkedIn:** [linkedin.com/in/ziazeeshan](https://www.linkedin.com/in/ziazeeshan/)
 * **Focus:** Open to collaborating on EdTech, Network Automation, and AI-driven workflow tools.
 
