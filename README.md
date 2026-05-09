@@ -2,7 +2,7 @@
 
 **Network Planning Engineer | Blockchain | Cloud | AI Enthusiast**
 
-I specialize in bridging the gap between robust telecommunications infrastructure and modern AI-driven software solutions. By day, I optimize Packet Core networks at **Zong 4G**; by night, I build high-fidelity educational platforms and automation tools.
+I specialize in bridging the gap between robust telecommunications infrastructure and modern AI-driven software solutions. By day, I optimize Packet Core networks at **Zong 5G**; by night, I build high-fidelity educational platforms and automation tools.
 
 ---
 
