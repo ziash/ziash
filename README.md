@@ -7,7 +7,7 @@ I specialize in bridging the gap between robust telecommunications infrastructur
 ---
 
 ### Professional Glimpse
-* ** Telecom Expertise:** Specialized in Packet Core Planning (2G/3G/4G/5G), Huawei Core & Cloud solutions, and network performance optimization.
+* ** Telecom Expertise:** Specialized in Packet Core Planning (4G/5G), Huawei Core & Cloud solutions, and network performance optimization.
 * ** Software Development:** Architecting decoupled full-stack applications using **FastAPI** and **React (Next.js/Vite)**.
 * ** AI Integration:** Implementing LLMs (Claude, Gemini) to create interactive learning experiences and automated grading engines.
 
